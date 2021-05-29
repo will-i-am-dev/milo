@@ -1,0 +1,14 @@
+com/milo/MainApplication.java
+ com.milo.MainApplication
+ com.milo.MainApplication$1
+com/milo/ReactNativeFlipper.java
+ com.milo.ReactNativeFlipper
+ com.milo.ReactNativeFlipper$1
+ com.milo.ReactNativeFlipper$2
+ com.milo.ReactNativeFlipper$2$1
+com/milo/MainActivity.java
+ com.milo.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/milo/BuildConfig.java
+ com.milo.BuildConfig

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/milo.iml" filepath="$PROJECT_DIR$/.idea/modules/milo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/milo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/milo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1208455842/milo.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1208455842/milo.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-514695972/milo.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-514695972/milo.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/477369357/milo.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/477369357/milo.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1397537721/milo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1397537721/milo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1567813818/milo.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1567813818/milo.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2017488843/milo.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/2017488843/milo.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-639645214/milo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-639645214/milo.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1965966214/milo.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1965966214/milo.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1872010941/milo.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1872010941/milo.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
